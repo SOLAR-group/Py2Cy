@@ -9,7 +9,7 @@ Py2Cy is a Genetic Improvement tool that automatically converts Python to Cython
 # Usage
 Paramaters:
 * Target python file path
-* Mode (exhaustive, random, walk)
+* Mode (exhaustive, random, local)
 * Iterations
 * Epoch
 * Test cases file path
